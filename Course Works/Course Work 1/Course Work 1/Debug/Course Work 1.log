@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\deigr\repository\onat\re\course work 1\course work 1\main.cpp(73): warning C4476: 'printf' : unknown type field character '\n' in format specifier
+  Course Work 1.vcxproj -> C:\Users\deigr\Repository\ONAT\RE\Course Work 1\Debug\Course Work 1.exe

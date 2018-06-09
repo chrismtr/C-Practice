@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\admin\repository\c++\dsa\algorithms\sorting\bubble sorting\lab 1\lab 1\main.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\repository\c++\dsa\algorithms\sorting\bubble sorting\lab 1\lab 1\main.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Lab 1.vcxproj -> C:\Users\Admin\Repository\C++\DSA\Algorithms\Sorting\Bubble Sorting\Lab 1\Debug\Lab 1.exe
